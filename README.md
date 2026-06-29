@@ -4,7 +4,7 @@ From-scratch reimplementations of foundational AI/ML papers, each as a single ru
 notebook with outputs. Everything runs at small scale (MNIST/CIFAR subsets), and each notebook
 was checked to actually reproduce its paper's main result.
 
-Both full & partial replications. Periodically adding to this. 
+Both full & partial replications -- architectures & methods remain faithful. Periodically adding to this. 
 
 ## Papers
 
