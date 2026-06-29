@@ -1,9 +1,8 @@
 # Foundational Replications
 
-From-scratch reimplementations of 31 foundational AI/ML papers, each as a single runnable
-notebook with real outputs. It spans the 1958 Perceptron through diffusion models, GPT and
-LLaMA. Everything runs at small scale (MNIST/CIFAR subsets) on a laptop, and each notebook
-was checked to actually reproduce its paper's main result before being committed.
+From-scratch reimplementations of foundational AI/ML papers, each as a single runnable
+notebook with outputs. Everything runs at small scale (MNIST/CIFAR subsets), and each notebook
+was checked to actually reproduce its paper's main result.
 
 ## Papers
 
